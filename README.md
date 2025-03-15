@@ -4,8 +4,8 @@ Hi, I am Raghav Chandna, a Computer Information Systems student at CSU, Chico, p
 
 ## UX Team Project
 
-Coming soon.
+Heart disease 
 
 ## UX Journal
 
-[Replace with title of journal](journal/)
+[Struggling with a Smart TV Remote](journal1.md)
