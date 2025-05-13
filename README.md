@@ -8,4 +8,4 @@ Heart disease
 
 ## UX Journal
 
-[Struggling with a Smart TV Remote](journal1.md)
+[Struggling with a Smart TV Remote](journal2.md)
